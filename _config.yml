@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "NS Personal Page"
 title_separator          : "-"
 name                     : &name "Nicola Strisciuglio"
 description              : &description "NIS - Neural Networks and Intelligent Systems"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://orcid.org/0000-0002-7478-3509"
+  username               : "nicstrisc"
 facebook:
   username               :
   app_id                 :
