@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicola Strisciuglio website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Nicola Strisciuglio"
-description              : &description "Neural Networks and Intelligent Systems - NIS"
+description              : &description "NIS - Neural Networks and Intelligent Systems"
 url                      : https://nicstrisc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicstrisc/nicstrisc.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "https://orcid.org/0000-0002-7478-3509"
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nicola Strisciuglio"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "Assistant Professor (tenured) of Machine Learning and Computer Vision"
+  location         : "Enschede, NL"
+  employer         : "University of Twente"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Strisciuglio+N&cauthor_id=31247549"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7cgpfGYAAAAJ"
+  email            : "n.strisciuglio_AT_utwente.nl" 
+  researchgate     : "https://www.researchgate.net/profile/Nicola-Strisciuglio" # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nis-research"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "nicolastrisciuglio" 
+  orcid            : "https://orcid.org/0000-0002-7478-3509"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nicstrisc"
   vine             :
   weibo            :
   xing             :
