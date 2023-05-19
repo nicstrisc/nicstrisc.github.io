@@ -2,7 +2,7 @@ About me
 ------
 I am an Assistant Professor (tenured) at the University of Twente (Netherlands), associated with the [Data management and Biometrics](https://www.utwente.nl/en/eemcs/dmb/) group. Before, I was a postdoctoral research at the University of Groningen (Netherlands) in the [Intelligent Systems group](https://www.cs.rug.nl/is/), where I worked on the [H2020 TrimBot2020 project](http://trimbot2020.webhosting.rug.nl/) to realize the first outdoor gardening robot. I obtained a PhD cum laude from the University of Groningen and the University of Salerno (Italy), and the BSc and MSc degree in Computer Engineering from the University of Salerno, both cum laude.
 
-I am a General Co-chair of the series of international conferences on ["Applications of Intelligent Systems"](http://appis.webhosting.rug.nl/2023/) (APPIS 2018, 2019, 2020, 2022, 2023).
+I am a General Co-chair of the series of international conferences on [Applications of Intelligent Systems](http://appis.webhosting.rug.nl/2023/) (APPIS 2018, 2019, 2020, 2022, 2023).
 
 Research
 ------
