@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Nicola Strisciuglio personal website"
+locale                   : "en-NL"
+title                    : "Dr. Nicola Strisciuglio"
 title_separator          : "-"
-name                     : &name "Nicola Strisciuglio"
-description              : &description "NIS - Neural Networks and Intelligent Systems"
-url                      : "https://nicstrisc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Nicola Strisciuglio"
+description              : &description "personal description"
+url                      : https://nicstrisc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nicstrisc/nicstrisc.github.io"
+repository               : "nicstrisc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "nicstrisc"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -74,7 +74,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google: 
     tracking_id          :
 
 
@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Nicola Strisciuglio"
   avatar           : "nicola-strisciuglio-square-transparent.png"
-  bio              : "Assistant Professor (tenured) of Machine Learning and Computer Vision"
-  location         : "Enschede, NL"
-  employer         : "University of Twente"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Strisciuglio+N&cauthor_id=31247549"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7cgpfGYAAAAJ"
-  email            : "n.strisciuglio_AT_utwente.nl" 
+  bio              : "(tenured) Assistant Professor at University of Twente, working on robust computer vision"
+  location         : "Netherlands"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ"
+  email            : "n.strisciuglio@utwente.nl"
   researchgate     : "https://www.researchgate.net/profile/Nicola-Strisciuglio" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : 
+  flickr           :
   facebook         :
   foursquare       :
   github           : "nis-research"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nicolastrisciuglio" 
-  orcid            : "https://orcid.org/0000-0002-7478-3509"
+  linkedin         : "estefaniatalavera"
+  orcid            : "https://orcid.org/0000-0001-5918-8990"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -224,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
