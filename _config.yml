@@ -86,7 +86,7 @@ author:
   location         : "Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7cgpfGYAAAAJ"
   email            : "n.strisciuglio@utwente.nl"
   researchgate     : "https://www.researchgate.net/profile/Nicola-Strisciuglio" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "estefaniatalavera"
-  orcid            : "https://orcid.org/0000-0001-5918-8990"
+  linkedin         : "nicolastrisciuglio"
+  orcid            : "https://orcid.org/0000-0002-7478-3509"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
