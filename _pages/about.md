@@ -23,7 +23,7 @@ My research in Computer Vision and Machine Learning revolves around the problems
 
 News
 ------
-Apr 2024 - One paper accepted in IEEE T-BIOM: 
+Apr 2024 - One paper accepted in IEEE T-BIOM
 Apr 2024 - I will be Area Chair for NeurIPS 2024
 Mar 2024 - One paper accepted at CVPR 2024 
 Feb 2024 - One paper accepted at ISBI 2024
