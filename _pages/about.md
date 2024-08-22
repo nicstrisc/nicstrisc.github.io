@@ -19,7 +19,7 @@ My research in Computer Vision and Machine Learning revolves around the problems
 
 More on research [here](/research/) 
 
-News
+Latest News
 ------
 Aug 2024 - One paper accepted at ICPR 2024 \
 Aug 2024 - One paper accepted at IEEE IJCB 2024 special sessions \
@@ -42,7 +42,4 @@ Oct 2023 - One paper accepter at WACV 2024   \
 Sep 2023 - Promoted to Associate Professor (Machine Learning and Computer Vision) at University of Twente \
 Sep 2023 - Shunxin Wang and I presented several works at NCCV 2024 \
 Sep 2023 - Melissa Tijink started her PhD on robust vision on the ERJU project (co-advised with Luuk Spreeuwers and Estefania Talavera) \
-Aug 2023 - One paper accepted at VIPriors @ICCV 2023 \
-Jul 2023 - One paper accepted at ICCV 2023 \
-Jun 2023 - Maria Leyva presented our paper 'Data-efficient Large Scale Place Recognition with Graded Similarity Supervision' at CVPR 2023 in Vancouver \
-May 2023 - Luuk Spreeuwers, Estefania Talavera and I got funding on the ERJU project (with ProRail)
+
