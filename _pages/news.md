@@ -9,7 +9,7 @@ author_profile: true
 ------
 Aug 2024 - One paper accepted at ICPR 2024 \
 Aug 2024 - One paper accepted at IEEE IJCB 2024 special sessions \
-Jun 2024 - I and Shunxin Wang attended CVPR 2024 and presented the paper "Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification" \ 
+Jun 2024 - I and Shunxin Wang attended CVPR 2024 and presented the paper "Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification" \
 Jun 2024 - I am a panelist at the CVPR social 'Challenges/Opportunities for ECRs in Fast Paced AI' \
 Jun 2024 - One paper accepted at IEEE CASE 2024 \
 May 2024 - We (9 members of the computer vision group at DMB/UT) attended NCCV 2024 and presented several works. \
