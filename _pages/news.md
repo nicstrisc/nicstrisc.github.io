@@ -5,8 +5,24 @@ permalink: /news/
 author_profile: true
 ---
 
+2025
+------
+Jun 2025 - One paper accepted at CAIP2025 (main author is Melissa Tijnk - congrats Melissa!) \
+May 2025 - Together with Estefania Talavera and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) 2025 \
+May 2025 - I received the 'Ius Promovendi' and I am now allowed to act as PhD Promotor and confer PhD degrees at the University of Twente.  \
+Apr 2025 - One paper accepted in Neural Computing and Applications (main author is Peter van der Wal - congrats!). \
+Apr 2025 - Shunxin Wang defended her PhD. Congratulations Dr. Shunxin! \
+Apr 2025 - Our paper 'Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models' is selected as Highlight at CVPR 2025 (main author is Davide Berasi - congrats Davide!). \
+Feb 2025 - Two papers accepted at CVPR 2025 (main authors are Shunxin Wang and Davide Berasi - congrats both!). \
+Feb 2025 - I will be Area Chair for NeurIPS 2025. \
+Jan 2025 - Zohra Rezgui defended her PhD. Congratulations Dr. Zohra! \
+Jan 2025 - One paper accepted at ICLR 2025 (main author is Boqian Wu - congrats Boqian!). 
+
 2024
 ------
+Nov 2024 - My group will organize NCCV (Netherlands Conference on Computer Vision) 2025. \
+Oct 2024 - Leonardo was born. I became father! \
+Oct 2024 - Melissa Tijnk (PhD student) wins the best poster award at the 6th SmartRaCon Scientific Seminar \
 Aug 2024 - One paper accepted at ICPR 2024 \
 Aug 2024 - One paper accepted at IEEE IJCB 2024 special sessions \
 Jun 2024 - I and Shunxin Wang attended CVPR 2024 and presented the paper "Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification" \
