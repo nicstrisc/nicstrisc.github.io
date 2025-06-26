@@ -11,7 +11,7 @@ redirect_from:
 About me
 ------
 I am an Associate Professor at the University of Twente (Netherlands), with the [Data management and Biometrics](https://www.utwente.nl/en/eemcs/dmb/) group. Before, I was Assistant Professor at University of Twente and a postdoctoral research at the University of Groningen (Netherlands) in the [Intelligent Systems group](https://www.cs.rug.nl/is/), where I worked on the [H2020 TrimBot2020 project](http://trimbot2020.webhosting.rug.nl/) to realize the first outdoor gardening robot. I obtained a PhD cum laude from the University of Groningen and the University of Salerno (Italy), and the BSc and MSc degree in Computer Engineering from the University of Salerno, both cum laude. I have been General Co-chair of the series of international conferences on [Applications of Intelligent Systems](http://appis.webhosting.rug.nl/2023/) (APPIS 2018, 2019, 2020, 2022, 2023). \
-I am currently Associate Editor for Pattern Recognition (Elsevier) and member of the Editorial Board of Neural Computing and Applications (Springer). I served as Area Chair for NeurIPS 2024. 
+I am currently Associate Editor for Pattern Recognition (Elsevier) and member of the Editorial Board of Neural Computing and Applications (Springer). I served as Area Chair for NeurIPS 2024 and 2025. 
 
 Research
 ------
@@ -21,17 +21,13 @@ More on research [here](/research/)
 
 Latest News
 ------
-Aug 2024 - One paper accepted at ICPR 2024 \
-Aug 2024 - One paper accepted at IEEE IJCB 2024 special sessions \
-Jun 2024 - I and Shunxin Wang attended CVPR 2024 and presented the paper "Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification" \
-Jun 2024 - I am a panelist at the CVPR social 'Challenges/Opportunities for ECRs in Fast Paced AI' \
-Jun 2024 - One paper accepted at IEEE CASE 2024 \
-May 2024 - We (9 members of the computer vision group at DMB/UT) attended NCCV 2024 and presented several works. \
-May 2024 - I attended ICRA 2024 and presented the paper "Regressing Transformers for Data-efficient Visual Place Recognition" \
-Apr 2024 - One paper accepted in IEEE T-BIOM \
-Apr 2024 - I will be Area Chair for NeurIPS 2024 \
-Mar 2024 - One paper accepted at CVPR 2024 \
-Feb 2024 - One paper accepted at ISBI 2024 \
-Jan 2024 - One paper accepted at ICRA 2024 \
-Dec 2023 - I received an Incentive Grant for a PhD student from EEMCS Faculty together with Silke Glas and Federico Califano \
-Dec 2023 - I will be Associate Editor for Pattern Recognition \
+Jun 2025 - One paper accepted at CAIP2025 (main author is Melissa Tijnk - congrats Melissa!) \
+May 2025 - Together with Estefania Talavera and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) 2025 \
+May 2025 - I received the 'Ius Promovendi' and I am now allowed to act as PhD Promotor and confer PhD degrees at the University of Twente.  \
+Apr 2025 - One paper accepted in Neural Computing and Applications (main author is Peter van der Wal - congrats!). \
+Apr 2025 - Shunxin Wang defended her PhD. Congratulations Dr. Shunxin! \
+Apr 2025 - Our paper 'Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models' is selected as Highlight at CVPR 2025 (main author is Davide Berasi - congrats Davide!). \
+Feb 2025 - Two papers accepted at CVPR 2025 (main authors are Shunxin Wang and Davide Berasi - congrats both!). \
+Feb 2025 - I will be Area Chair for NeurIPS 2025. \
+Jan 2025 - Zohra Rezgui defended her PhD. Congratulations Dr. Zohra! \
+Jan 2025 - One paper accepted at ICLR 2025 (main author is Boqian Wu - congrats Boqian!). 
