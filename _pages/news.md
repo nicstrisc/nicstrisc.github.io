@@ -7,6 +7,9 @@ author_profile: true
 
 2025
 ------
+__Oct 2025 - I have been awarded the prestigious NWO VIDI fellowship, an 850k EUR grant to consolidate my research group__ \
+Sep 2025 - One paper accepted in Compupters in Biology and Medicine (congrats Sreyasi) \
+Aug 2025 - A survey paper on "2D and 3D visual grounding" accepted in the Information Fusion journal (congrats Keyu) \
 Jun 2025 - One paper accepted at CAIP2025 (main author is Melissa Tijnk - congrats Melissa!) \
 May 2025 - Together with Estefania Talavera and Alex Stergiou, I co-organized the Netherlands Conference on Computer Vision (NCCV) 2025 \
 May 2025 - I received the 'Ius Promovendi' and I am now allowed to act as PhD Promotor and confer PhD degrees at the University of Twente.  \
